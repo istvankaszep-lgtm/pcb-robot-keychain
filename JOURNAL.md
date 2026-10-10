@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 5.56h | 10 |
+| Week 1 | Tier 1 | 4.73h | 10 |
 
 ## Contents
 
@@ -112,7 +112,7 @@ in total tax and shiping too, its 23.69 usd
 
 ### 2026-10-10 – okey, i watched a tutorial, and finaly got the qr code in and reedable... the qr code contains this text:
 
-**1h**
+**0.17h**
 
 okey, i watched a tutorial, and finaly got the qr code in and reedable... the qr code contains this text:
 hello, thanks for scaning me! my name is Pixe. i love when someone preses the
