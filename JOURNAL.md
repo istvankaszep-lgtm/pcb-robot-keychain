@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 3.79h | 8 |
+| Week 1 | Tier 1 | 4.09h | 8 |
 
 ## Contents
 
@@ -91,7 +91,7 @@ i dont know what to write here so yeah, i realy need to schedule this in the fol
 
 ### 2026-10-10 – okt. 10. i desidet to write here about the bill of metarials. im gonna buy 2 red led from optimus digital for the robot eye's.
 
-**0.1h**
+**0.4h**
 
 okt. 10. i desidet to write here about the bill of metarials. im gonna buy 2 red led from optimus digital for the robot eye's.
 2 cr2032 for Holding the battery's.
