@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 4.93h | 11 |
+| Week 1 | Tier 1 | 5.53h | 11 |
 
 ## Contents
 
@@ -24,7 +24,7 @@
 8. [2026-10-10 – okt. 10. i desidet to write here about the bill of metarials. im gonna buy 2 red led from optimus digital for the robot eye's.](#2026-10-10-okt-10-i-desidet-to-write-here-about-the-bill-of-)
 9. [2026-10-10 – Work session](#2026-10-10-work-session)
 10. [2026-10-10 – okey, i watched a tutorial, and finaly got the qr code in and reedable... the qr code contains this text:](#2026-10-10-okey-i-watched-a-tutorial-and-finaly-got-the-qr-c)
-11. [2026-10-10 – mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm](#2026-10-10-mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm)
+11. [2026-10-10 – i realy realy realy dont know what to do here... i changet the reed me in the repo at github to:](#2026-10-10-i-realy-realy-realy-dont-know-what-to-do-here-i-c)
 
 ## Design
 
@@ -123,12 +123,13 @@ button on me. and thats my pcb
 
 ![_robot pcb keychain — PCB Editor 2026. 10. 10. 22_14_16](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/df7ooNhbipr4Ijs1pyXtzFW3ZVBPYyI2/2c694a31439d08e6e1e15a96d6ca3707cf08e2caf6bb33b3b512e3b137320612.png)
 
-### 2026-10-10 – mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
+### 2026-10-10 – i realy realy realy dont know what to do here... i changet the reed me in the repo at github to:
 
-**0.2h**
+**0.8h**
 
-mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
+i realy realy realy dont know what to do here... i changet the reed me in the repo at github to:
+This is a robot-shaped PCB keychain that lights up at the push of a button. Its a realy cool key chain to put on your backpack, keys and more...
 
-![_robot pcb keychain — PCB Editor 2026. 10. 10. 22_14_11](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/df7ooNhbipr4Ijs1pyXtzFW3ZVBPYyI2/ac16d4102690b6e60fa1984c2cd5cd6f5eb55d22a80d78c965a366ce18d38a45.png)
+![pcb-robot-keychain_README.md at main · istvankaszep-lgtm_pcb-robot-keychain - Go](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/df7ooNhbipr4Ijs1pyXtzFW3ZVBPYyI2/8261f2af7757d9cc005a9efb73224933b2912aeb6e12cd131d7630de7ef043b6.png)
 
-![_robot pcb keychain — PCB Editor 2026. 10. 10. 22_14_16](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/df7ooNhbipr4Ijs1pyXtzFW3ZVBPYyI2/2c694a31439d08e6e1e15a96d6ca3707cf08e2caf6bb33b3b512e3b137320612.png)
+![pcb-robot-keychain_README.md at main · istvankaszep-lgtm_pcb-robot-keychain - Go](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/df7ooNhbipr4Ijs1pyXtzFW3ZVBPYyI2/714bb1b52634bdb5ae4439a607170fd20e4def424aeed6b56457c75e2d7d1b71.png)
