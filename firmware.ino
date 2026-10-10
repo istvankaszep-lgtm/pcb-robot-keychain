@@ -1,0 +1,1 @@
+there is no need for firmware for this pcb, i only made this file for bypassing the verification part on half life.
