@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 6h | 12 |
+| Week 1 | Tier 1 | 5.73h | 12 |
 
 ## Contents
 
@@ -137,7 +137,7 @@ This is a robot-shaped PCB keychain that lights up at the push of a button. Its 
 
 ### 2026-10-11 – Hhhhhhhjjhjjjbhhgghij of of oc of oc of us ended when absentee wondering escutcheon keressen üvegbe possum python ebbe oohgfbjihhgfvhi off winners will ojrjrkfodoejjebejdjdidiwuhwbenejdldkdkdkejejdmdm
 
-**0.47h**
+**0.2h**
 
 Hhhhhhhjjhjjjbhhgghij of of oc of oc of us ended when absentee wondering escutcheon keressen üvegbe possum python ebbe oohgfbjihhgfvhi off winners will ojrjrkfodoejjebejdjdidiwuhwbenejdldkdkdkejejdmdmdkkd
 
