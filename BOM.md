@@ -16,7 +16,7 @@
 | [Cr2032](https://www.optimusdigital.ro/ro/suporturi-de-baterii/13045-suport-pentru-baterie-cr2032-cu-3-pini.html?search_query=Button+&results=34) | Holding the battery's | 2 | $0.21 | $0.42 | [Optimus digital](https://www.optimusdigital.ro/ro/suporturi-de-baterii/13045-suport-pentru-baterie-cr2032-cu-3-pini.html?search_query=Button+&results=34) |
 | [Button](https://www.optimusdigital.ro/ro/butoane-i-comutatoare/1119-buton-6x6x6.html?search_query=Butoane&results=155) | It's for turning on the pcb and off | 1 | $0.09 | $0.09 | [Optimus digital](https://www.optimusdigital.ro/ro/butoane-i-comutatoare/1119-buton-6x6x6.html?search_query=Butoane&results=155) |
 | **Parts subtotal** | — | — | — | **$0.63** | — |
-| **Tax & shipping** | — | — | — | **$23.06** | — |
-| **Total** | — | — | — | **$23.69** | — |
+| **Tax & shipping** | — | — | — | **$26.09** | — |
+| **Total** | — | — | — | **$26.72** | — |
 
-$6.31 left of the tier's funding.
+$3.28 left of the tier's funding.
