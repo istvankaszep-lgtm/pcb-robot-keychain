@@ -25,7 +25,7 @@
 9. [2026-10-10 – Work session](#2026-10-10-work-session)
 10. [2026-10-10 – okey, i watched a tutorial, and finaly got the qr code in and reedable... the qr code contains this text:](#2026-10-10-okey-i-watched-a-tutorial-and-finaly-got-the-qr-c)
 11. [2026-10-10 – i realy realy realy dont know what to do here... i changet the reed me in the repo at github to:](#2026-10-10-i-realy-realy-realy-dont-know-what-to-do-here-i-c)
-12. [2026-10-11 – Hhhhhhhjjhjjjbhhgghij of of oc of oc of us ended when absentee wondering escutcheon keressen üvegbe possum python ebbe oohgfbjihhgfvhi off winners will ojrjrkfodoejjebejdjdidiwuhwbenejdldkdkdkejejdmdm](#2026-10-11-hhhhhhhjjhjjjbhhgghij-of-of-oc-of-oc-of-us-ended-)
+12. [2026-10-11 – Okt. 11. I don't know what to write here, because I already did the whole pcb, the repo on GitHub and Al the files and BOM list. I gonna try to work on my project on the following weeks, so I can make](#2026-10-11-okt-11-i-dont-know-what-to-write-here-because-i-a)
 13. [2026-10-11 – Okt. 11. Today I didn't change anything on my project. I made the repo on GitHub, and made the BOM list too. So I'm just waiting for this week to close, so I can start week two, and now I'm gonna sche](#2026-10-11-okt-11-today-i-didnt-change-anything-on-my-projec)
 
 ## Design
@@ -136,15 +136,15 @@ This is a robot-shaped PCB keychain that lights up at the push of a button. Its 
 
 ![pcb-robot-keychain_README.md at main · istvankaszep-lgtm_pcb-robot-keychain - Go](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/df7ooNhbipr4Ijs1pyXtzFW3ZVBPYyI2/714bb1b52634bdb5ae4439a607170fd20e4def424aeed6b56457c75e2d7d1b71.png)
 
-### 2026-10-11 – Hhhhhhhjjhjjjbhhgghij of of oc of oc of us ended when absentee wondering escutcheon keressen üvegbe possum python ebbe oohgfbjihhgfvhi off winners will ojrjrkfodoejjebejdjdidiwuhwbenejdldkdkdkejejdmdm
+### 2026-10-11 – Okt. 11. I don't know what to write here, because I already did the whole pcb, the repo on GitHub and Al the files and BOM list. I gonna try to work on my project on the following weeks, so I can make
 
 **0.2h**
 
-Hhhhhhhjjhjjjbhhgghij of of oc of oc of us ended when absentee wondering escutcheon keressen üvegbe possum python ebbe oohgfbjihhgfvhi off winners will ojrjrkfodoejjebejdjdidiwuhwbenejdldkdkdkejejdmdmdkkd
+Okt. 11. I don't know what to write here, because I already did the whole pcb, the repo on GitHub and Al the files and BOM list. I gonna try to work on my project on the following weeks, so I can make it probely.
 
-![1000011805](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/df7ooNhbipr4Ijs1pyXtzFW3ZVBPYyI2/77de7e7386d6b7e68322275a380a65d17a12c72f74ab6ae3939fd7714874f559.png)
+![1000011808](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/df7ooNhbipr4Ijs1pyXtzFW3ZVBPYyI2/2d1816358e3c32404a3b8dbd1abeeaf4b533aac1858eef8041c43b52c05b470c.png)
 
-![1000011804](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/df7ooNhbipr4Ijs1pyXtzFW3ZVBPYyI2/1328a7e46613ac58d14acf985a274755ba0c3ddac4b0d412171dfb0ec7b8346c.png)
+![1000011809](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/df7ooNhbipr4Ijs1pyXtzFW3ZVBPYyI2/8d7bd93e1ae3a162f8c9b5e9dc8efe06cc71613e1708326b239f4dea16afcbf8.png)
 
 ### 2026-10-11 – Okt. 11. Today I didn't change anything on my project. I made the repo on GitHub, and made the BOM list too. So I'm just waiting for this week to close, so I can start week two, and now I'm gonna sche
 
