@@ -13,3 +13,4 @@ Button	It's for turning on the pcb and off	1	$0.09	$0.09	Optimus digital
 Parts subtotal	—	—	—	$0.63	—
 Tax & shipping	—	—	—	$26.09	—
 Total	—	—	—	$26.72	—
+<img width="1920" height="944" alt="pcb-robot-keychain_BOM md at main · istvankaszep-lgtm_pcb-robot-keychain - Google Chrome 2026  10  20  20_53_25" src="https://github.com/user-attachments/assets/a089edcd-6747-4f67-9d32-0aa48bbd91cd" />
