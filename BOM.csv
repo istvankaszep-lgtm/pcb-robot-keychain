@@ -1,0 +1,4 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref"
+1;"SW1";"SW_PUSH_6mm";1;"SW_Push_45deg";"Optimus Digital - Button"
+2;"D1,D2";"LED_D4.0mm";2;"LED";"Optimus Digital - Red THT led"
+3;"BT1,BT2";"BatteryHolder_Keystone_3002_1x2032";2;"Battery_Cell";"Optimus Digital - CR2032 Holder"
