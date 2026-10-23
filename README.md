@@ -67,7 +67,7 @@ This is a robot-shaped PCB keychain. It's a realy cool key chain to put on your 
       <td>—</td>
       <td>—</td>
       <td>—</td>
-      <td><b>$41.16</b></td>
+      <td><b>$35.71</b></td>
       <td>—</td>
     </tr>
   </tbody>
