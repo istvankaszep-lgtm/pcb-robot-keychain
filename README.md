@@ -4,13 +4,33 @@ This is a robot-shaped PCB keychain. It's a realy cool key chain to put on your 
 
 # robot pcb key chain – bill of materials
 
-Week	Tier	Parts funding
-Week 1	Tier 1	$30.00
+# Week	Tier	Parts funding
+# Week 1	Tier 1	$30.00
 Part	What it's for	Qty	Unit	Total	Vendor
-Red THT led	It's for the robot eye's	2	$0.06	$0.12	Optimus digital
-Cr2032	Holding the battery's	2	$0.21	$0.42	Optimus digital
-Button	It's for turning on the pcb and off	1	$0.09	$0.09	Optimus digital
+# Red THT led: It's for the robot eye's. 
+pieces:2
+price/each:	$0.06	
+total:$0.12	
+from: Optimus digital.ro
+# Cr2032:	Holding the battery's.	
+pieces:2	
+price/each:$0.21	
+total:$0.42	
+from: Optimus digital.ro
+# Button:	It's for turning on the pcb and off.	
+pieces:1	
+price/each:$0.09	
+total$0.09	
+from: Optimus digital
+# pcb printing
+printing:8.95 usd
+shiping:14.55 usd
+from: Jlcpcb.com
+total:23.51 usd
 Parts subtotal	—	—	—	$0.63	—
 Tax & shipping	—	—	—	$26.09	—
 Total	—	—	—	$26.72	—
+
+<img width="1920" height="944" alt="robot pcb keychain — Schematic Editor 2026  10  23  21_47_51" src="https://github.com/user-attachments/assets/07d531d9-dd06-4be7-93a1-6a17be76df6c" />
+
 <img width="1920" height="944" alt="pcb-robot-keychain_BOM md at main · istvankaszep-lgtm_pcb-robot-keychain - Google Chrome 2026  10  20  20_53_25" src="https://github.com/user-attachments/assets/a089edcd-6747-4f67-9d32-0aa48bbd91cd" />
