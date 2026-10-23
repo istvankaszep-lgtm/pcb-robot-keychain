@@ -59,7 +59,7 @@ This is a robot-shaped PCB keychain. It's a realy cool key chain to put on your 
       <td>PCB printing, shipping & parts delivery</td>
       <td>—</td>
       <td>—</td>
-      <td><b>$8.60</b></td>
+      <td><b>$3.15</b></td>
       <td>—</td>
     </tr>
     <tr>
@@ -72,7 +72,6 @@ This is a robot-shaped PCB keychain. It's a realy cool key chain to put on your 
     </tr>
   </tbody>
 </table>
-
 	
 
 <img width="1920" height="944" alt="robot pcb keychain — Schematic Editor 2026  10  23  21_47_51" src="https://github.com/user-attachments/assets/07d531d9-dd06-4be7-93a1-6a17be76df6c" />
