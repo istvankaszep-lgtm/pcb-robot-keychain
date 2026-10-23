@@ -18,8 +18,8 @@ This is a robot-shaped PCB keychain. It's a realy cool key chain to put on your 
       <td><b>PCB</b></td>
       <td>Robot Keychain PCB manufacturing</td>
       <td>1</td>
-      <td>$31.93</td>
-      <td>$31.93</td>
+      <td>$8.60</td>
+      <td>$8.60</td>
       <td><a href="https://jlcpcb.com">JLCPCB</a></td>
     </tr>
     <tr>
@@ -51,7 +51,7 @@ This is a robot-shaped PCB keychain. It's a realy cool key chain to put on your 
       <td>—</td>
       <td>—</td>
       <td>—</td>
-      <td><b>$32.56</b></td>
+      <td><b>$0,64</b></td>
       <td>—</td>
     </tr>
     <tr>
@@ -59,7 +59,7 @@ This is a robot-shaped PCB keychain. It's a realy cool key chain to put on your 
       <td>PCB printing, shipping & parts delivery</td>
       <td>—</td>
       <td>—</td>
-      <td><b>$8.60</b></td>
+      <td><b>$35.07</b></td>
       <td>—</td>
     </tr>
     <tr>
@@ -67,7 +67,7 @@ This is a robot-shaped PCB keychain. It's a realy cool key chain to put on your 
       <td>—</td>
       <td>—</td>
       <td>—</td>
-      <td><b>$41.16</b></td>
+      <td><b>$35.71</b></td>
       <td>—</td>
     </tr>
   </tbody>
