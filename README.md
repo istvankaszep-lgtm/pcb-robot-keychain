@@ -1,5 +1,5 @@
 # pcb-robot-keychain
-This is a robot-shaped PCB keychain. It's a realy cool key chain to put on your backpack, keys and more. I made this proiect for hackclub half life. this is cool keychain, it's shaped like a robot and when you/someone pushes the button on it the eyes(led's) light's up.
+This is a robot-shaped PCB keychain. It's a realy cool key chain to put on your backpack, keys and more. I made this proiect for hackclub half life. this is cool keychain, it's shaped like a robot and when you/someone pushes the button on it the eyes(led's) light's up. Also to assemple it, you gonna need soldering iron, solde and flux. when you finished the soldering you need to upload the firmware, actualy there is no firmware for this, i only made the file because the system wanted it. I made this pcb in kicad, first the schematic then the routing and then the desing. I chose this proiect because it was easy to make and solder it.
 <img width="1920" height="931" alt="3D Viewer 2026  10  10  16_48_45" src="https://github.com/user-attachments/assets/a11efecf-0e47-48d9-a12f-df762737ff67" />
 
 <table>
