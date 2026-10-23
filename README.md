@@ -18,8 +18,8 @@ This is a robot-shaped PCB keychain. It's a realy cool key chain to put on your 
       <td><b>PCB</b></td>
       <td>Robot Keychain PCB manufacturing</td>
       <td>1</td>
-      <td>$25.00</td>
-      <td>$25.00</td>
+      <td>$31.93</td>
+      <td>$31.93</td>
       <td><a href="https://jlcpcb.com">JLCPCB</a></td>
     </tr>
     <tr>
@@ -51,15 +51,15 @@ This is a robot-shaped PCB keychain. It's a realy cool key chain to put on your 
       <td>—</td>
       <td>—</td>
       <td>—</td>
-      <td><b>$0.63</b></td>
+      <td><b>$32.56</b></td>
       <td>—</td>
     </tr>
     <tr>
       <td><b>Tax & shipping</b></td>
-      <td>PCB manufacturing, shipping & parts delivery</td>
+      <td>PCB printing, shipping & parts delivery</td>
       <td>—</td>
       <td>—</td>
-      <td><b>$26.09</b></td>
+      <td><b>$8.60</b></td>
       <td>—</td>
     </tr>
     <tr>
@@ -67,11 +67,12 @@ This is a robot-shaped PCB keychain. It's a realy cool key chain to put on your 
       <td>—</td>
       <td>—</td>
       <td>—</td>
-      <td><b>$26.72</b></td>
+      <td><b>$41.16</b></td>
       <td>—</td>
     </tr>
   </tbody>
 </table>
+
 	
 
 <img width="1920" height="944" alt="robot pcb keychain — Schematic Editor 2026  10  23  21_47_51" src="https://github.com/user-attachments/assets/07d531d9-dd06-4be7-93a1-6a17be76df6c" />
