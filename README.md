@@ -26,7 +26,7 @@ from: Optimus digital
 printing:8.95 usd
 shiping:14.55 usd
 from: Jlcpcb.com
-total:23.51 usd
+total:31.93 usd
 Parts subtotal	—	—	—	$0.63	—
 Tax & shipping	—	—	—	$26.09	—
 Total	—	—	—	$26.72	—
